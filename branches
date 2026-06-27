@@ -1,0 +1,145 @@
+```html
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Branches | Groupe Scout Don Bosco Ngangi</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<nav>
+    <a href="index.html">Accueil</a>
+    <a href="historique.html">Historique</a>
+    <a href="branches.html" class="active">Branches</a>
+    <a href="galerie.html">Galerie</a>
+    <a href="actualites.html">Actualités</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<header>
+
+    <img src="logo.png" class="logo" alt="Logo GSDN">
+
+    <h1>Les Branches du Scoutisme</h1>
+
+    <p>Chaque jeune évolue progressivement à travers les différentes branches selon son âge et sa progression.</p>
+
+</header>
+
+<section>
+
+    <h2>🐺 La Meute</h2>
+
+    <p><strong>Tranche d'âge :</strong> 8 à 12 ans</p>
+
+    <p>La Meute accueille les plus jeunes. Ils découvrent le scoutisme à travers le jeu, les histoires de la Jungle, la fraternité et le respect.</p>
+
+    <h3>Progression</h3>
+
+    <ul>
+        <li>Patte Tendre</li>
+        <li>Première Étoile</li>
+        <li>Deuxième Étoile</li>
+    </ul>
+
+</section>
+
+<section>
+
+    <h2>⚜ La Troupe</h2>
+
+    <p><strong>Tranche d'âge :</strong> 12 à 17 ans</p>
+
+    <p>La Troupe développe l'autonomie, le sens du devoir, l'esprit d'équipe et le leadership.</p>
+
+    <h3>Progression</h3>
+
+    <ul>
+        <li>Tenderfoot</li>
+        <li>Deuxième Classe</li>
+        <li>Première Classe</li>
+    </ul>
+
+</section>
+
+<section>
+
+    <h2>🔥 La Compagnie</h2>
+
+    <p><strong>Tranche d'âge :</strong> 17 à 20 ans</p>
+
+    <p>La Compagnie prépare les jeunes à devenir des citoyens engagés et des leaders responsables.</p>
+
+    <h3>Progression</h3>
+
+    <ul>
+        <li>Initiation</li>
+        <li>Reconnaissance</li>
+        <li>Rayonnement</li>
+    </ul>
+
+</section>
+
+<section>
+
+    <h2>🧭 Le Clan des Routiers</h2>
+
+    <p><strong>À partir de 20 ans</strong></p>
+
+    <p>Le Clan accompagne les jeunes adultes dans leur engagement personnel, professionnel et citoyen.</p>
+
+    <h3>Progression</h3>
+
+    <ul>
+        <li>Aspirant</li>
+        <li>Compagnonnage</li>
+        <li>Routier de Départ</li>
+    </ul>
+
+</section>
+
+<section>
+
+    <h2>Parcours d'un Scout</h2>
+
+    <p style="text-align:center;font-size:20px;">
+
+        Meute
+
+        ➜
+
+        Troupe
+
+        ➜
+
+        Compagnie
+
+        ➜
+
+        Clan des Routiers
+
+    </p>
+
+    <p style="text-align:center;">
+        Un scout progresse naturellement d'une branche à l'autre selon son âge, son évolution et sa progression.
+    </p>
+
+</section>
+
+<footer>
+
+    <p>© Groupe Scout Don Bosco Ngangi</p>
+
+    <p>Toujours Dynamique ⚜</p>
+
+</footer>
+
+</body>
+
+</html>
+```
